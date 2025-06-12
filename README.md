@@ -9,6 +9,8 @@ This repo links to my individual Java workshop projects.
 - [Car Dealership](https://github.com/emmyileeva/CarDealership.git)
 - [Advanced Car Dealership](https://github.com/emmyileeva/adv-dealership-project.git)
 - [SQL Car Dealership](https://github.com/emmyileeva/CarDealershipDatabase.git)
+- [JDBC Car Dealership](https://github.com/emmyileeva/jdbc-car-dealership.git)
+
 
 
 
